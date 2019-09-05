@@ -1,14 +1,32 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      {
+        id: 0,
+        img: 'https://via.placeholder.com/150/FFFF00/000000?Text=WebsiteBuilders.com',
+        title: 'Zlate Piesky Bratislava - Wakelake sporting area',
+        date: '18 June 16:51:20',
+        descr: 'Bukit Timah Expressway'
+      },
+      {
+        id: 1,
+        img: 'https://via.placeholder.com/150/FFFF00/000000?Text=WebsiteBuilders.com',
+        title: 'Bratislava Airport',
+        date: '18 June 16:51:20',
+        descr: 'Bukit Timah Expressway'
+      },
+      {
+        id: 2,
+        img: 'https://via.placeholder.com/150/FFFF00/000000?Text=WebsiteBuilders.com',
+        title: 'Zlate Piesky Bratislava - Wakelake sporting area',
+        date: '18 June 16:51:20',
+        descr: 'Bukit Timah Expressway'
+      },
+      {
+        id: 3,
+        img: 'https://via.placeholder.com/150/FFFF00/000000?Text=WebsiteBuilders.com',
+        title: 'Bratislava Airport',
+        date: '18 June 16:51:20',
+        descr: 'Bukit Timah Expressway'
+      }
+    ],
 }
