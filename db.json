@@ -2,14 +2,14 @@
   "posts": [
       {
         id: 0,
-        img: 'http://tineye.com/images/widgets/mona.jpg',
-        title: 'Zlate Piesky Bratislava - Wakelake sporting area',
-        date: '18 June 16:51:20',
-        descr: 'Bukit Timah Expressway'
+        img: "http://tineye.com/images/widgets/mona.jpg",
+        title: "Zlate Piesky Bratislava - Wakelake sporting area",
+        date: "18 June 16:51:20",
+        descr: "Bukit Timah Expressway"
       },
       {
         id: 1,
-        img: 'http://tineye.com/images/widgets/mona.jpg',
+        img: "http://tineye.com/images/widgets/mona.jpg",
         title: 'Bratislava Airport',
         date: '18 June 16:51:20',
         descr: 'Bukit Timah Expressway'
